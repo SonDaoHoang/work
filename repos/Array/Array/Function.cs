@@ -59,7 +59,7 @@ namespace Array
             int length = 0;
             Console.Write("Nhap gia tri muon xoa:" + " ");
             var value = Console.ReadLine();
-            CheckDouble(value);
+            value = CheckDouble (value);
             for (int i = 0; i < array.Length; i++)
             {
                 if (array[i] != double.Parse(value))
@@ -83,10 +83,11 @@ namespace Array
             double[] newarray = new double[array.Length + 1];
             Console.Write("Nhap vi tri can chen:" + " ");
             var position = Console.ReadLine();
+            position = CheckInt(position);
             CheckInt(position);
             Console.Write("Nhap gia tri can chen:" + " ");
             var value = Console.ReadLine();
-            CheckDouble(value);
+            value = CheckDouble(value);
             for (int index = 0; index < array.Length + 1; index++)
             {
                 if (index < int.Parse(position) - 1)
@@ -102,10 +103,10 @@ namespace Array
         {
             Console.Write("Nhap vi tri can sua:" + " ");
             var position = Console.ReadLine();
-            CheckInt(position);
+            position = CheckInt(position);
             Console.Write("Nhap gia tri can sua:" + " ");
             var value = Console.ReadLine();
-            CheckDouble(value);
+            value = CheckDouble(value);
             array[int.Parse(position) - 1] = double.Parse(value, NumberStyles.Any, CultureInfo.InvariantCulture);
         }
     }
