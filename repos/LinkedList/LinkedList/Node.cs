@@ -16,6 +16,12 @@ namespace LinkedList
     {
         internal Node head;
     }
+    internal void InsertFront(SingleLinkedList singlyList, int new_data)
+    {
+        Node new_node = new Node(new_data);
+        new_node.next = singlyList.head;
+        singlyList.head = new_node;
+    }
 }
 
 

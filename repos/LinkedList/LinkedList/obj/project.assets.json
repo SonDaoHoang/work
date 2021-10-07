@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\LinkedList\\LinkedList\\LinkedList.csproj",
+      "projectUniqueName": "D:\\work\\repos\\LinkedList\\LinkedList\\LinkedList.csproj",
       "projectName": "LinkedList",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\LinkedList\\LinkedList\\LinkedList.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\LinkedList\\LinkedList\\obj\\",
+      "projectPath": "D:\\work\\repos\\LinkedList\\LinkedList\\LinkedList.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\work\\repos\\LinkedList\\LinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

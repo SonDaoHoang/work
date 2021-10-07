@@ -12,3 +12,17 @@ C:\Users\ACER\source\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.Core
 C:\Users\ACER\source\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
 C:\Users\ACER\source\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
 C:\Users\ACER\source\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
+D:\work\repos\Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+D:\work\repos\Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+D:\work\repos\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+D:\work\repos\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+D:\work\repos\Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+D:\work\repos\Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+D:\work\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+D:\work\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+D:\work\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+D:\work\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+D:\work\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+D:\work\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+D:\work\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache

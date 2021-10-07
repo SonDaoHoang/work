@@ -78,3 +78,7 @@ C:\Users\ACER\source\repos\WebFormQLBH\WebFormQLBH\obj\Debug\WebFormQLBH.csproj.
 C:\Users\ACER\source\repos\WebFormQLBH\WebFormQLBH\obj\Debug\WebFormQLBH.csproj.CopyComplete
 C:\Users\ACER\source\repos\WebFormQLBH\WebFormQLBH\obj\Debug\WebFormQLBH.dll
 C:\Users\ACER\source\repos\WebFormQLBH\WebFormQLBH\obj\Debug\WebFormQLBH.pdb
+D:\work\repos\WebFormQLBH\WebFormQLBH\obj\Debug\WebFormQLBH.csproj.AssemblyReference.cache
+D:\work\repos\WebFormQLBH\WebFormQLBH\obj\Debug\WebFormQLBH.csproj.CoreCompileInputs.cache
+D:\work\repos\WebFormQLBH\WebFormQLBH\obj\Debug\WebFormQLBH.dll
+D:\work\repos\WebFormQLBH\WebFormQLBH\obj\Debug\WebFormQLBH.pdb
